@@ -1,10 +1,10 @@
-import React from 'react'
-import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
-import HomePage from './pages/HomePage'
-import ChatbotPage from './pages/ChatbotPage'
-import DiagnosticReportPage from './pages/DiagnosticReportPage'
-import KnowledgeBasePage from './pages/KnowledgeBasePage'
-import SettingsPage from './pages/SettingsPage'
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import HomePage from "./pages/HomePage";
+import ChatbotPage from './pages/ChatbotPage';
+import DiagnosticReportPage from './pages/DiagnosticReportPage';
+import KnowledgeBasePage from './pages/KnowledgeBasePage';
+import SettingsPage from './pages/SettingsPage';
 
 const App = () => {
   return (
